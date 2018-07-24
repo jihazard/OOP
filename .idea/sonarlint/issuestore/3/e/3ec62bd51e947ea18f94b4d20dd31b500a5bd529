@@ -1,0 +1,8 @@
+
+Isquid:S1172"+Remove this unused method parameter "data".(ýÆýÆ8ó‹÷‡Ì,
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(Æ¡³ ÿÿÿÿÿ8ª„ù‡Ì,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ÀÚ×
+\squid:S3400"9Remove this method and declare a constant for this value.(Ï—Âîüÿÿÿÿ8É½ƒˆÌ,
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÈÌ½¥
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ýÆýÆ8ó‹÷‡Ì,
+hsquid:UselessImportCheck"8Remove this unused import 'sun.net.www.http.HttpClient'.(Æ¡³ ÿÿÿÿÿ8É½ƒˆÌ,

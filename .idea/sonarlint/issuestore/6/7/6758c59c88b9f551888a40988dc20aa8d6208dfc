@@ -1,0 +1,7 @@
+
+Fsquid:S1068"(Remove this unused "data" private field.(Ïó¿’8¢Ö²ˆÌ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(þÍëü8ûÏ·ˆÌ,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ÐßÇþÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç¢¥±8—‹¸ˆÌ,

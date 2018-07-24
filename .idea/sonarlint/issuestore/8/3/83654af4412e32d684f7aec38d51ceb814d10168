@@ -1,5 +1,5 @@
 
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºê­¶ıÿÿÿÿ
-Vsquid:S1854"8Remove this useless assignment to local variable "data".(½´Óì8æ³ÛË,
 Gsquid:S1481")Remove this unused "data" local variable.(½´Óì8æ³ÛË,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºê­¶ıÿÿÿÿ
 Isquid:S1068"+Remove this unused "useFile" private field.(¬À¹ˆ8±óèÛË,
+Vsquid:S1854"8Remove this useless assignment to local variable "data".(½´Óì8æ³ÛË,
