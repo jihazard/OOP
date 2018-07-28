@@ -65,5 +65,7 @@ w
 Gsrc/oopAndDesignPattern/chapter7/strategy_pattern/DiscountStrategy.java,a\f\af317226d75ed235477606ced42edeb7a2933fb8
 w
 Gsrc/oopAndDesignPattern/chapter7/strategy_pattern/Strategy_Pattern.java,9\7\97ef922b37d6611b6e95bed403f88bd0cf0580f6
-s
-Csrc/oopAndDesignPattern/chapter7/strategy_pattern/StrategyPlay.java,c\1\c14030f8b19a7593e63176991ea6898d4d3b9294
+q
+Asrc/oopAndDesignPattern/chapter7/strategy_pattern/Calculator.java,e\3\e3ff59d24e370dd8982e7a1592231b6fa625a71b
+k
+;src/oopAndDesignPattern/chapter7/strategy_pattern/Play.java,4\e\4ed9c4bca0f870d9eb360bbdd43d699ce23d8c50
