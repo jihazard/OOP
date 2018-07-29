@@ -18,6 +18,16 @@ public class VendingMachine {
     public void increaseCoin(int coin) {
     }
 
-    public s changeState(SelectableState selectableState) {
+    public void changeState(SelectableState selectableState) {
+    }
+
+    public void provideProduct(int productId) {
+    }
+
+    public void decreseCoin() {
+    }
+
+    public boolean hasNoCoin() {
+        return false;
     }
 }
