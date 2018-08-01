@@ -10,6 +10,6 @@ public class SelectableState implements State{
     public void select(int productId, VendingMachine vendingMachine) {
         vendingMachine.provideProduct(productId);
         vendingMachine.decreseCoin();
-        if(vendingMachine.hasNoCoin()) vendingMachine.changeState(new NoCoinState());
+        //if(vendingMachine.hasNoCoin()) vendingMachine.changeState(new NoCoinState());
     }
 }
