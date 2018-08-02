@@ -1,2 +1,4 @@
 
 rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À’åü
+esquid:S2094"BRemove this empty class, write its code or make it an "interface".(›–êâøÿÿÿÿ8ñ¶¶¬Ï,
+jsquid:UselessImportCheck":Remove this unused import 'javax.naming.ldap.LdapContext'.(óª¢’þÿÿÿÿ8ñ¶¶¬Ï,

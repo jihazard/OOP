@@ -1,0 +1,6 @@
+
+Ksquid:S1068"-Remove this unused "professor" private field.(Э╛Я┘8└·ем╧,
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ВЪЙ18├╕им╧,
+vsquid:S1450"XRemove the "professor" field and declare it as a local variable in the relevant methods.(Э╛Я┘8разм╧,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(щр╒А
