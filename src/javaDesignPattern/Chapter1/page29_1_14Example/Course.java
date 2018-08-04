@@ -19,9 +19,6 @@ public class Course {
         transcriptList.add(transcript);
     }
 
-    public String getName() {
-        return name;
-    }
-
+  
 
 }

@@ -133,3 +133,15 @@ Z
 *src/javaDesignPattern/Chapter1/Course.java,c\9\c937cb3af9debb30b4c4d34aead5c4656d5f8ee6
 a
 1src/javaDesignPattern/Chapter1/page28/Course.java,8\8\881adc9a4cf876d6b6c2c814fcce1f93ffb9bfbd
+q
+Asrc/javaDesignPattern/Chapter1/page29_1_14Example/Transcript.java,a\6\a692d4dd42d3cf02affb8a201d22f59236422aed
+n
+>src/javaDesignPattern/Chapter1/page29_1_14Example/Student.java,1\0\10d6ed789ab16340cff918c427c0fb0d093821ca
+m
+=src/javaDesignPattern/Chapter1/page29_1_14Example/Course.java,0\f\0fb2e265f7a8a78f13a82a6142a9ec8be41ea8f1
+k
+;src/javaDesignPattern/Chapter1/page29_1_14Example/Main.java,7\7\774e84451c65affb45e6572b29887a3ba0547a4c
+y
+Isrc/javaDesignPattern/Chapter2/abstractPart/page64Code2_4/ArrayStack.java,e\e\ee9a2e19855196f0619aa9fd836e7d87992167ff
+}
+Msrc/javaDesignPattern/Chapter2/abstractPart/page64Code2_4/ArrayListStack.java,5\1\5109312bbc571340d26263940e82b9c40ef1303c

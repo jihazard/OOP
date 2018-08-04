@@ -28,4 +28,17 @@ public class Student {
         return course;
 
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public List<Student> getStudent() {
+        List<Student> student = new ArrayList<>();
+
+        for(Student stu : student){
+
+        }
+            return null;
+    }
 }

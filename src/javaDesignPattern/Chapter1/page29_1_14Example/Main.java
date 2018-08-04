@@ -26,11 +26,11 @@ public class Main {
         List<Course> course;
         course = yoon.getCourse();
         for(int i =0 ; i<=course.size()-1;i++){
-            System.out.println(course.get(i).getName());
+          //  System.out.println(course.get(i).getName());
         }
 
         for(Course c : course){
-            System.out.println("과목 :" + c.getName());
+         //   System.out.println("과목 :" + c.getName());
         }
 
     }

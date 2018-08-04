@@ -1,0 +1,15 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(â»˜8çÒÃ–Ğ,
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(¾ÇÛÂÿÿÿÿÿ8ºûÓ–Ğ,
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(‰Œøß8­ÜÊ–Ğ,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€éÍßúÿÿÿÿ
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ó¹óÔıÿÿÿÿ8Ç–Ğ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßªÃŒ8ø¹À–Ğ,
+‰"squid:ClassVariableVisibilityCheck"OMake top a static final constant or non-public and provide accessors if needed.(Ö¹œüşÿÿÿÿ8Ã¥‚˜Ğ,
+"squid:ClassVariableVisibilityCheck"UMake itemArray a static final constant or non-public and provide accessors if needed.(ƒÔöúùÿÿÿÿ8Ã¥‚˜Ğ,
+‰"squid:ClassVariableVisibilityCheck"UMake stackSize a static final constant or non-public and provide accessors if needed.(™ğ{8Ã¥‚˜Ğ,
