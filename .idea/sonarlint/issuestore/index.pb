@@ -145,3 +145,7 @@ y
 Isrc/javaDesignPattern/Chapter2/abstractPart/page64Code2_4/ArrayStack.java,e\e\ee9a2e19855196f0619aa9fd836e7d87992167ff
 }
 Msrc/javaDesignPattern/Chapter2/abstractPart/page64Code2_4/ArrayListStack.java,5\1\5109312bbc571340d26263940e82b9c40ef1303c
+o
+?src/javaDesignPattern/Chapter2/abstractPart/code2_10/Stack.java,d\5\d5a396674f48b105438fed1a7f959da5f1fa9ddf
+m
+=src/javaDesignPattern/Chapter2/abstractPart/code2_15/Pet.java,7\d\7d05e20f49d7fd2917f5235e0f3d2b8d4b59875c

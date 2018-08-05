@@ -1,5 +1,5 @@
 
-Isquid:S1168*"+Return an empty collection instead of null.(¥¹ï8İ½úÕÏ,
-Ksquid:S1481'"(Remove this unused "stu" local variable.(¼Ê¾Ëûÿÿÿÿ8İ½úÕÏ,
-Msquid:S00108'")Either remove or fill this block of code.(¼Ê¾Ëûÿÿÿÿ8¶ûÕÏ,
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æèşıÿÿÿÿ
+Isquid:S1168*"+Return an empty collection instead of null.(¥¹ï8İ½úÕÏ,
+Msquid:S00108'")Either remove or fill this block of code.(¼Ê¾Ëûÿÿÿÿ8¶ûÕÏ,
+Ksquid:S1481'"(Remove this unused "stu" local variable.(¼Ê¾Ëûÿÿÿÿ8İ½úÕÏ,

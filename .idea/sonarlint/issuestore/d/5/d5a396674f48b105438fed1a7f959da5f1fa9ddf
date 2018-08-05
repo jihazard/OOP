@@ -1,0 +1,6 @@
+
+€squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "returnValue".(ÑÔÇy8‹«Ü Ð,
+Ysquid:S2094"BRemove this empty class, write its code or make it an "interface".(šúÃŒ
+ˆsquid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ÿ¸Þÿøÿÿÿÿ8È—× Ð,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÙæË
+gsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(œË¥L8‡¤‚ Ð,

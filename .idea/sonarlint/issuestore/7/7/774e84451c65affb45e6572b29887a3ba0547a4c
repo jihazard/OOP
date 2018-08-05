@@ -1,5 +1,5 @@
 
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æèşıÿÿÿÿ
+hsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(áûÕ8û×–Ğ,
 Dsquid:S1481 "&Remove this unused "c" local variable.(§Ä±¡8û×–Ğ,
 nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(à±ÄÅüÿÿÿÿ8û×–Ğ,
-hsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(áûÕ8û×–Ğ,

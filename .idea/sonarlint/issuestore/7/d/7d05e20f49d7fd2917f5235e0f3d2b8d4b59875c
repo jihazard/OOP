@@ -1,0 +1,10 @@
+
+@squid:S2189""Correct this loop's end condition.(ıËÊâ8Œ‘Œ¡Ğ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞîÅÎÿÿÿÿÿ8ûÿ Ğ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò¢¬‰8·Æÿ Ğ,
+Hsquid:S00108")Either remove or fill this block of code.(ıËÊâ8Œ‘Œ¡Ğ,
+Wsquid:S2251"9"j" is incremented and will never reach "stop condition".(ıËÊâ8Œ‘Œ¡Ğ,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éœ³
+Qsquid:S1610"3Convert the abstract class "Pet" into an interface.(ğæıã8¤®û Ğ,
